@@ -1,0 +1,12 @@
+Host Amazon
+ที่อยู่อีเมล: sitiporn@orange-thailand.com
+รหัสผ่าน: =b;jk;jkK
+ชื่อบัญชี AWS: lasectabeauty
+
+Name Server
+z.com
+info@hces.co.th
+HCES0311
+
+เข้า Host
+https://console.aws.amazon.com/s3/home?region=us-east-2

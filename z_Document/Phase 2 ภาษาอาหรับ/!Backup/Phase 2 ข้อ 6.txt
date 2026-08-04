@@ -1,0 +1,7 @@
+All Orders ทั้งหมด
+New Orders -> Waiting
+Rejected Orders -> Cancel
+Accepted Orders -> Success
+Pay status -> Shipping
+
+9cd10c89c3533edf8f8ead73046560036a6f8345

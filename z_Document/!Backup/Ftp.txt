@@ -1,0 +1,38 @@
+Database: lasectab_ci
+User: lasectab_ci
+Pass: lbmTbri2560
+
+New Account Information
+Hosting Package: RCP1
+Domain: lasectabeauty.com
+Due date: 19/07/2020
+ 
+Login Details
+Username: lasectab
+Password: W_-c8kPS:$GX
+cPanel URL: http://159.203.74.240:2082/
+cPanel SSL URL: https://159.203.74.240:2083/
+เมื่อโดเมนท่านได้ชี้มาที่ระบบของเราแล้ว ท่านสามารถเข้า cPanel ผ่านทาง http://www.lasectabeauty.com:2082/
+ 
+Server Information
+Server Name: ns17.hostpacific.net
+Server IP: 159.203.74.240
+ 
+หากท่านใช้ DNS ภายนอก กรุณาแก้ไขให้ใช้งาน Nameserver ต่อไปนี้
+Nameserver requirements:
+Nameserver 1: ns17.hostpacific.net (159.203.74.240)
+Nameserver 2: dns13.hostpacific.com (27.254.36.48)
+Nameserver 3: dns15.hostpacific.com (54.193.39.87)
+ 
+ท่านสามารถอัพโหลดเว็บได้ทาง
+FTP information:
+Temporary FTP Hostname: 159.203.74.240
+Temporary Webpage URL: http://159.203.74.240/~lasectab/
+เมื่อโดเมนท่านได้ชี้มาที่ระบบของเราแล้ว:
+FTP Hostname: ftp.lasectabeauty.com
+ 
+Email Settings
+POP3 Host Address: mail.lasectabeauty.com
+SMTP Host Address: mail.lasectabeauty.com
+Webmail: http://www.lasectabeauty.com/webmail
+ 
