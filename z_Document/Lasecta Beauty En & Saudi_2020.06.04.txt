@@ -1,9 +1,0 @@
-เว็บหลัก
-1. ทำ Login Facebook
-2. เอา QR Code มาใส่
-3. หน้า Order Detail ให้ Print ได้
-
-เว็บซาอุ
-1. Import Excel ประเทศ
-2. ทำเพิ่มตรงที่อยู่ของ Lasecta Beautyทำให้เลือก ตำบล อำเภอ จังหวัด ทีอยู่ ของ Lasecta Beauty
-3. Fastlo
